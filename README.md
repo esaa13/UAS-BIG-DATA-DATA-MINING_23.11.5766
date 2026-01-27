@@ -1,0 +1,2 @@
+# UAS-BIG-DATA-DATA-MINING_23.11.5766
+Predictive Analytics dengan metode Regresi, model yang dipilih adalah Linear Regression.
