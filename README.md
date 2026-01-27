@@ -9,3 +9,6 @@ Ini adalah semua kode dari EDA, Seleksi fitur, dan modeling
 
 Menggunakan dataset rumah yang bisa diakses :
 https://www.kaggle.com/datasets/shivachandel/kc-house-data
+
+Link Colab :
+https://colab.research.google.com/drive/1V2KScd3o1XrWi-pP9wtaFcteRs46D57q?usp=sharing
